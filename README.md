@@ -13,3 +13,9 @@ You can build the app by running `npm run electron:build`
 #### Notes
 
 Inspired by the Mozilla [Web Audio Visualizations Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Visualizations_with_Web_Audio_API), [Sequencer Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Advanced_techniques) which you can try [here](https://mdn.github.io/webaudio-examples/step-sequencer/).
+
+##### What's Next?
+
+- Tremolo, reverb, delay, overdrive FX per track with params
+- Support for audio file to play sample using 4th (inactive) track
+- Save/load sequences
