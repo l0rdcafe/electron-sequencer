@@ -1,6 +1,5 @@
 import React, { ReactNode, useState, useEffect, SetStateAction } from "react";
 import { wavetable } from "./wavetable";
-import "./App.css";
 
 enum Track {
   SWEEP = "sweep",
