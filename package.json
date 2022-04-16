@@ -2,7 +2,7 @@
   "name": "electron-sequencer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./public/index.html",
+  "homepage": ".",
   "main": "build/electron/main.js",
   "author": "l0rdcafe",
   "description": "Electron Sequencer using Web Audio APIs",
